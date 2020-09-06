@@ -1,8 +1,5 @@
 # Hi there 👋, I'm Saniya
 
-## Welcome to my profile!
-
-
 - 🌱 I’m currently learning: Flask
 - 🔭 Next on my list is: 
     * Creating Algorithm Visualizations
