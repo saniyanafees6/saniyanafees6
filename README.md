@@ -4,7 +4,7 @@
 - 🔭 Next on my list is: 
     * Creating Algorithm Visualizations
     * learning TypeScript and Golang
-- :mortar_board: 
+- :mortar_board: Education
     * Masters of Science in Computer Science (Expected Graduation: 2022)
          - Database Systems Concepts and Design
          - Intro to Health Informatics
