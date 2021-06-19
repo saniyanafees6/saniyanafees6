@@ -8,7 +8,7 @@
     * Masters of Science in Computer Science (Expected Graduation: 2022)
          - Database Systems Concepts and Design
          - Intro to Health Informatics
+         - Software Development Process
     * Bachelors of Science in Computer Engineering (Class of 2018)
 - 📫 How to reach me: saniya.nafees@gatech.edu
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I enjoy building IKEA furniture
