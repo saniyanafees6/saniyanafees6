@@ -5,10 +5,6 @@
     * Creating Algorithm Visualizations
     * learning TypeScript and Golang
 - :mortar_board: Education
-    * Masters of Science in Computer Science (Expected Graduation: 2022)
-         - Database Systems Concepts and Design
-         - Intro to Health Informatics
-         - Software Development Process
     * Bachelors of Science in Computer Engineering (Class of 2018)
-- 📫 How to reach me: saniya.nafees@gatech.edu
+- 📫 How to reach me: saniyanafees6@gmail.com
 - 😄 Pronouns: She/Her
